@@ -6,3 +6,5 @@ let myNumber: number;
 
 myStr = sum([1,2,3]);
 myNumber = sum([2,3,4]);
+
+console.log(myStr, myNumber);
